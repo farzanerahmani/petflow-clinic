@@ -1,0 +1,13 @@
+package com.roochi.petflowclinic.dto.request;
+
+import lombok.Data;
+
+/**
+ * @author farzane.rahmani
+ * @created 7/7/2026
+ */
+@Data
+public class FindClinicByIdRequestDto {
+
+    private Long id;
+}

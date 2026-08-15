@@ -1,0 +1,5 @@
+app:
+  jwt:
+    secret-key: f86QMlHyxfKrziHCQyKWiCl4w9Xps7OFvvwm34Dqb1es3J3N2y4HBBFmZAY0/JvQiAqlEmtZrWmtv63fuvl5TQ==
+    access-token-expiration: 3600000
+    refresh-token-expiration: 604800000
