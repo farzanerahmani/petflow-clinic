@@ -1,0 +1,7 @@
+communication:
+  notification:
+    fixed-delay: 30000
+    retry:
+      max-attempts: 3
+      first-delay-seconds: 30
+      second-delay-seconds: 120
